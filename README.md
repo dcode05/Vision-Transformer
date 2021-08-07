@@ -1,5 +1,10 @@
 # eva-asst-13
 
+In this readme,
+1. I have shared a link to the Colab Notebook file where almost every step of the code has been explained: https://colab.research.google.com/drive/1xuzdjLxG2vKHig28pyPP1QOibrOqVmUp?usp=sharing
+2. I have shared notes where each Class explained in the class has been summarized clearly. The last 2 images show the change in matrix sizes as the data flows among various classes.
+          
+
 Patch EMBEDDING:
 ![](/images/1.jpg)
 
